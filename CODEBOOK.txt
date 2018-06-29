@@ -1,0 +1,48 @@
+File contains variable names and descriptions.
+
+WC2018_PLAYER_INFO.CSV
+
+Data on the players from national teams that played in the 2018 FIFA World Cup.
+
+COUNTRY_NATION_TEAM	- Country of the the player's national team at the 2018 World Cup
+PLAYER_NUMBER - Jersey number of the player at the 2018 World Cup
+PLAYER_POSITION - Player's listed position at the 2018 World Cup
+PLAYER_FNAME - First name of the player
+PLAYER_LNAME -	Middle and last name of the player
+PLAYER_BIRTH_DAY - Player's day of birth
+PLAYER_BIRTH_MONTH - Player's month of birth
+PLAYER_BIRTH_YEAR - Player's year of birth
+PLAYER_AGE - Player's age at the time of the 2018 World Cup
+PLAYER_CAPS - Number of national team caps by the player at the start of the 2018 World Cup
+PLAYER_GOALS -	Number of national team goals by the player at the start of the 2018 World Cup
+PLAYER_CLUB_COUNTRY - The country in which the player plays for a club
+PLAYER_CLUB - Name of the player's club team
+
+
+WC2018_GROUND_LOCATIONS.CSV
+
+Locations of home grounds for all clubs with players in the 2018 FIFA World Cup.
+
+HOMELON	- Longitude of team's home ground
+HOMELAT	- Latitude of team's home ground
+HOME_FED - Team's federation
+TOTAL_PLAYERS - Total players from the team at the 2018 World Cup
+CLUB - Club name
+
+WC2018_HOME_GROUND_LOCATIONS_AND_TOTALS.CSV
+
+Locations of grounds, with teams that share home grounds combined.
+
+HOMELON	- Longitude of ground
+HOMELAT	- Latitude of ground
+HOME_FED - Ground's federation
+TOTAL_PLAYERS - Total players at the 2018 World Cup who play at location as their home ground
+
+
+SOURCE NOTE:
+
+- Information is based on each country's 2018 WC National Team Wikipedia page.
+- Ground locations based on each club team's wiki or wiki for stadium
+- When information on locations was not available on Wiki, location was taken from googlemaps.
+
+

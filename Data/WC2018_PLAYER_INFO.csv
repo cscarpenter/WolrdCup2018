@@ -1,0 +1,736 @@
+COUNTRY_NATION_TEAM,PLAYER_NUMBER,PLAYER_POSITION,PLAYER_FNAME,PLAYER_LNAME,PLAYER_BIRTH_DAY,PLAYER_BIRTH_MONTH,PLAYER_BIRTH_YEAR,PLAYER_AGE,PLAYER_CAPS,PLAYER_GOALS,PLAYER_CLUB_COUNTRY,PLAYER_CLUB
+BEL,23,MF,Leander,Dendoncker,15,4,1995,23,5,0,BEL,Anderlecht   
+CRO,12,GK,Lovre,Kalinić,3,4,1990,28,11,0,BEL,Gent   
+NGA,10,MF,John,Obi Mikel,22,4,1987,31,84,6,CHI,Tianjin TEDA  
+CRC,23,GK,Leonel,Moreira,2,4,1990,28,8,0,CRC, Herediano  
+ISL,1,GK,Hannes,Þór Halldórsson,27,4,1984,34,51,0,DEN,Randers   
+EGY,12,DF,Ayman,Ashraf,9,4,1991,27,5,1,EGY,Al Ahly  
+EGY,20,DF,Saad,Samir,1,4,1989,29,10,0,EGY,Al Ahly  
+AUS,1,GK,Mathew,Ryan,8,4,1992,26,46,0,ENG,Brighton & Hove Albion
+ENG,23,GK,Nick,Pope,19,4,1992,26,1,0,ENG,Burnley   
+DEN,6,DF,Andreas,Christensen,10,4,1996,22,18,1,ENG,Chelsea   
+SRB,4,MF,Luka,Milivojević,7,4,1991,27,30,1,ENG,Crystal Palace  
+DEN,13,DF,Mathias,Jørgensen,23,4,1990,28,13,0,ENG,Huddersfield Town  
+JPN,9,FW,Shinji,Okazaki,16,4,1986,32,115,50,ENG,Leicester City  
+SEN,10,FW,Sadio,Mané,10,4,1992,26,54,15,ENG,Liverpool   
+SRB,16,MF,Marko,Grujić,13,4,1996,22,8,0,ENG,Liverpool   
+BEL,4,DF,Vincent,Kompany,10,4,1986,32,77,4,ENG,Manchester City  
+BRA,9,FW,Gabriel,Jesus,3,4,1997,21,19,10,ENG,Manchester City  
+AUS,3,DF,James,Meredith,4,4,1988,30,2,0,ENG,Millwall   
+POL,5,DF,Jan,Bednarek,12,4,1996,22,5,0,ENG,Southampton   
+BEL,5,DF,Jan,Vertonghen,24,4,1987,31,104,8,ENG,Tottenham Hotspur  
+ENG,20,MF,Dele,Alli,11,4,1996,22,26,2,ENG,Tottenham Hotspur  
+POL,22,GK,Łukasz,Fabiański,18,4,1985,33,45,0,ENG,West Ham United 
+SEN,14,FW,Moussa,Konaté,3,4,1993,25,28,10,FRA,Amiens   
+JPN,19,DF,Hiroki,Sakai,12,4,1990,28,45,0,FRA,Marseille   
+ARG,20,MF,Giovani,Lo Celso,9,4,1996,22,5,0,FRA,Paris Saint-Germain  
+TUN,7,MF,Saîf-Eddine,Khaoui,27,4,1995,23,6,0,FRA,Troyes   
+ESP,10,MF,Thiago,,11,4,1991,27,31,2,GER,Bayern Munich  
+SWE,6,DF,Ludwig,Augustinsson,21,4,1994,24,17,0,GER,Werder Bremen  
+IRN,10,FW,Karim,Ansarifard,3,4,1990,28,64,17,GRE,Olympiacos   
+SRB,8,FW,Aleksandar,Prijović,21,4,1990,28,10,1,GRE,PAOK   
+ISL,16,MF,Ólafur,Ingi Skúlason,1,4,1983,35,36,1,ISL,Fylkir   
+IRN,11,MF,Vahid,Amiri,2,4,1988,30,38,1,IRN,Persepolis   
+NGA,19,MF,John,Ogu,20,4,1988,30,19,2,ISR,Hapoel Be'er Sheva 
+SUI,8,MF,Remo,Freuler,15,4,1992,26,10,0,ITA,Atalanta   
+SUI,15,MF,Blerim,Džemaili,12,4,1986,32,67,9,ITA,Bologna   
+SWE,14,DF,Filip,Helander,22,4,1993,25,4,0,ITA,Bologna   
+FRA,14,MF,Blaise,Matuidi,9,4,1987,31,69,9,ITA,Juventus   
+GER,6,MF,Sami,Khedira,4,4,1987,31,76,7,ITA,Juventus   
+MAR,5,DF,Medhi,Benatia,17,4,1987,31,59,2,ITA,Juventus   
+POL,1,GK,Wojciech,Szczęsny,18,4,1990,28,37,0,ITA,Juventus   
+URU,22,DF,Martín,Cáceres,7,4,1987,31,79,4,ITA,Lazio   
+POL,4,DF,Thiago,Cionek,21,4,1986,32,20,0,ITA,SPAL   
+SUI,11,MF,Valon,Behrami,19,4,1985,33,81,2,ITA,Udinese   
+AUS,2,DF,Milos,Degenek,28,4,1994,24,18,0,JPN,Yokohama F. Marinos 
+PER,23,MF,Pedro,Aquino,13,4,1995,23,15,0,MEX,León   
+COL,3,DF,Óscar,Murillo,18,4,1988,30,14,0,MEX,Pachuca   
+MAR,22,GK,Ahmed,Reda Tagnaouti,5,4,1996,22,2,0,MAR,IR Tanger  
+IRN,22,GK,Amir,Abedzadeh,26,4,1993,25,1,0,POR,Marítimo   
+MEX,16,MF,Héctor,Herrera,19,4,1990,28,68,5,POR,Porto   
+IRN,8,DF,Morteza,Pouraliganji,19,4,1992,26,30,2,QAT,Al-Sadd   
+RUS,1,GK,Igor,Akinfeev,8,4,1986,32,109,0,RUS,CSKA Moscow  
+SWE,4,DF,Andreas,Granqvist,16,4,1985,33,74,7,RUS,Krasnodar   
+RUS,13,DF,Fyodor,Kudryashov,5,4,1987,31,21,0,RUS,Rubin Kazan  
+EGY,11,FW,Kahraba,,13,4,1994,24,25,3,KSA, Al Ittihad 
+SRB,14,DF,Milan,Rodić,2,4,1991,27,1,0,SER,Red Star Belgrade 
+KOR,9,FW,Kim,Shin-wook,14,4,1988,30,51,10,KOR, Jeonbuk Hyundai Motors
+KOR,3,DF,Jung,Seung-hyun,3,4,1994,24,6,0,KOR, Tosu  
+SWE,11,FW,John,Guidetti,15,4,1992,26,21,1,ESP,Alavés   
+GER,22,GK,Marc-André,ter Stegen,30,4,1992,26,20,0,ESP,Barcelona   
+MAR,1,GK,Yassine,Bounou,5,4,1991,27,11,0,ESP,Girona   
+ESP,22,MF,Isco,,21,4,1992,26,31,11,ESP,Real Madrid  
+FRA,4,DF,Raphaël,Varane,25,4,1993,25,44,2,ESP,Real Madrid  
+COL,14,FW,Luis,Muriel,16,4,1991,27,18,2,ESP,Sevilla   
+ISL,21,MF,Arnór,Ingvi Traustason,30,4,1993,25,19,5,SWE,Malmö   
+CRO,21,DF,Domagoj,Vida,29,4,1989,29,61,2,TUR,Beşiktaş   
+MAR,13,FW,Khalid,Boutaïb,24,4,1987,31,20,8,TUR,Yeni Malatyaspor  
+POR,14,MF,William,Carvalho,7,4,1992,26,46,2,UNA,   
+MEX,6,MF,Jonathan,dos Santos,26,4,1990,28,32,0,USA, LA Galaxy 
+PER,19,MF,Yoshimar,Yotún,7,4,1990,28,75,2,USA,Orlando City  
+ISL,17,MF,Aron,Gunnarsson,22,4,1989,29,79,2,WAL,Cardiff City  
+PER,6,DF,Miguel,Trauco,25,8,1992,25,28,0,BRA,Flamengo   
+ISL,15,DF,Hólmar,Örn Eyjólfsson,6,8,1990,27,10,1,BUL,Levski Sofia  
+DEN,22,GK,Frederik,Rønnow,4,8,1992,25,6,0,DEN,Brøndby   
+COL,1,GK,David,Ospina,31,8,1988,29,88,0,ENG,Arsenal   
+AUS,15,MF,Mile,Jedinak,3,8,1984,33,78,20,ENG,Aston Villa  
+BRA,19,MF,Willian,,9,8,1988,29,59,8,ENG,Chelsea   
+ESP,14,DF,César,Azpilicueta,28,8,1989,28,22,0,ENG,Chelsea   
+BRA,23,GK,Ederson,,17,8,1993,24,1,0,ENG,Manchester City  
+POR,11,MF,Bernardo,Silva,10,8,1994,23,29,2,ENG,Manchester City  
+SRB,21,MF,Nemanja,Matić,1,8,1988,29,42,2,ENG,Manchester United  
+JPN,22,DF,Maya,Yoshida,24,8,1988,29,84,10,ENG,Southampton   
+POR,21,DF,Cédric,,31,8,1991,26,32,1,ENG,Southampton   
+BEL,22,MF,Nacer,Chadli,2,8,1989,28,46,5,ENG,West Bromwich Albion 
+FRA,3,DF,Presnel,Kimpembe,13,8,1995,22,2,0,FRA,Paris Saint-Germain  
+SUI,14,MF,Steven,Zuber,17,8,1991,26,14,4,GER,1899 Hoffenheim  
+FRA,12,MF,Corentin,Tolisso,3,8,1994,23,10,0,GER,Bayern Munich  
+POL,9,FW,Robert,Lewandowski,21,8,1988,29,97,55,GER,Bayern Munich  
+DEN,3,DF,Jannik,Vestergaard,3,8,1992,25,16,1,GER,Borussia Mönchengladbach  
+SUI,19,FW,Josip,Drmić,8,8,1992,25,30,9,GER,Borussia Mönchengladbach  
+SEN,6,DF,Salif,Sané,25,8,1990,27,24,0,GER,Schalke 4  
+SWE,16,DF,Emil,Krafth,2,8,1994,23,13,0,ITA,Bologna   
+URU,15,MF,Matías,Vecino,24,8,1991,26,25,1,ITA,Internazionale   
+SUI,13,DF,Ricardo,Rodríguez,25,8,1992,25,55,5,ITA,Milan   
+ESP,23,GK,Pepe,Reina,31,8,1982,35,36,0,ITA,Napoli   
+MEX,23,DF,Jesús,Gallardo,14,8,1994,23,25,0,MEX,Monterrey   
+ARG,3,DF,Nicolás,Tagliafico,31,8,1992,25,6,0,NED,Ajax   
+IRN,18,MF,Alireza,Jahanbakhsh,11,8,1993,24,41,4,NED,AZ   
+MAR,21,MF,Sofyan,Amrabat,21,8,1996,21,7,0,NED,Feyenoord   
+PAN,12,GK,José,Calderón,14,8,1985,32,31,0,PAN,Chorrillo   
+PAN,22,GK,Álex,Rodríguez,5,8,1990,27,6,0,PAN,San Francisco  
+CRC,10,FW,Bryan,Ruiz,18,8,1985,32,111,24,POR,Sporting CP  
+RUS,22,FW,Artem,Dzyuba,22,8,1988,29,26,13,RUS,Arsenal Tula  
+POL,13,DF,Maciej,Rybus,19,8,1989,28,53,2,RUS,Lokomotiv Moscow  
+ISL,5,DF,Sverrir,Ingi Ingason,5,8,1993,24,21,3,RUS,Rostov   
+RUS,18,MF,Yuri,Zhirkov,20,8,1983,34,86,2,RUS,Zenit Saint Petersburg 
+RUS,23,DF,Igor,Smolnikov,8,8,1988,29,28,0,RUS,Zenit Saint Petersburg 
+AUS,5,MF,Mark,Milligan,4,8,1985,32,70,6,KSA, Al-Ahli  
+KSA,18,MF,Salem,Al-Dawsari,19,8,1991,26,38,6,KSA, Al-Hilal  
+KSA,14,MF,Abdullah,Otayf,3,8,1992,25,21,1,KSA, Al-Hilal  
+KSA,7,MF,Salman,Al-Faraj,1,8,1989,28,47,4,KSA, Al-Hilal  
+KSA,15,MF,Abdullah,Al-Khaibari,16,8,1996,21,6,0,KSA, Al-Shabab  
+NGA,16,GK,Daniel,Akpeyi,3,8,1986,31,6,0,RSA,Chippa United 
+KOR,17,MF,Lee,Jae-sung,10,8,1992,25,37,6,KOR, Jeonbuk Hyundai Motors
+BRA,6,DF,Filipe,Luís,9,8,1985,32,33,2,ESP,Atlético Madrid  
+ESP,17,FW,Iago,Aspas,1,8,1987,30,12,6,ESP,Celta   
+URU,18,FW,Maxi,Gómez,14,8,1996,21,6,0,ESP,Celta   
+MAR,11,MF,Fayçal,Fajr,1,8,1988,29,25,2,ESP,Getafe   
+COL,17,DF,Johan,Mojica,21,8,1991,26,6,1,ESP,Girona   
+TUN,9,FW,Anice,Badri,18,8,1990,27,12,3,TUN,Espérance   
+SWE,9,FW,Marcus,Berg,17,8,1986,31,59,18,UEA,Arab Emirates Al Ain
+MAR,14,MF,Mbark,Boussoufa,15,8,1984,33,62,7,UAE,Arab Emirates Al-Jazira 
+URU,8,MF,Nahitan,Nández,28,12,1995,22,15,0,ARG,Boca Juniors  
+POR,6,DF,José,Fonte,22,12,1983,34,34,0,CHI,Dalian Yifang  
+PAN,16,FW,Abdiel,Arroyo,13,12,1993,24,34,5,CRC, Alajuelense  
+CRC,14,MF,Randall,Azofeifa,30,12,1984,33,57,3,CRC, Herediano  
+EGY,23,GK,Mohamed,El Shenawy,18,12,1988,29,5,0,EGY,Al Ahly  
+ENG,15,DF,Gary,Cahill,19,12,1985,32,60,5,ENG,Chelsea   
+NGA,11,MF,Victor,Moses,12,12,1990,27,33,11,ENG,Chelsea   
+NGA,4,MF,Wilfred,Ndidi,16,12,1996,21,19,0,ENG,Leicester City  
+ENG,10,FW,Raheem,Sterling,8,12,1994,23,40,2,ENG,Manchester City  
+ENG,7,MF,Jesse,Lingard,15,12,1992,25,14,2,ENG,Manchester United  
+SEN,9,FW,Mame,Biram Diouf,16,12,1987,30,51,10,ENG,Stoke City  
+FRA,1,GK,Hugo,Lloris,26,12,1986,31,100,0,ENG,Tottenham Hotspur  
+SEN,8,MF,Cheikhou,Kouyaté,21,12,1989,28,46,2,ENG,West Ham United 
+SEN,2,DF,Adama,Mbengue,1,12,1993,24,7,0,FRA,Caen   
+FRA,17,DF,Adil,Rami,27,12,1985,32,35,1,FRA,Marseille   
+FRA,10,FW,Kylian,Mbappé,20,12,1998,19,17,5,FRA,Paris Saint-Germain  
+SEN,15,FW,Diafra,Sakho,24,12,1989,28,12,3,FRA,Rennes   
+GER,5,DF,Mats,Hummels,16,12,1988,29,65,5,GER,Bayern Munich  
+POR,5,DF,Raphaël,Guerreiro,22,12,1993,24,27,2,GER,Borussia Dortmund  
+SUI,1,GK,Yann,Sommer,17,12,1988,29,37,0,GER,Borussia Mönchengladbach  
+SRB,19,FW,Luka,Jović,23,12,1997,20,1,0,GER,Eintracht Frankfurt  
+POL,16,MF,Jakub,Błaszczykowski,14,12,1985,32,100,20,GER,VfL Wolfsburg  
+ARG,9,FW,Gonzalo,Higuaín,10,12,1987,30,74,31,ITA,Juventus   
+SEN,19,FW,M'Baye,Niang,19,12,1994,23,10,1,ITA,Torino   
+JPN,3,DF,Gen,Shōji,11,12,1992,25,14,1,JPN,Kashima Antlers  
+AUS,11,FW,Andrew,Nabbout,26,12,1992,25,6,1,JPN,Urawa Red Diamonds 
+KOR,15,MF,Jung,Woo-young,14,12,1989,28,32,1,JPN,Vissel Kobe  
+URU,5,MF,Carlos,Sánchez,2,12,1984,33,37,1,MEX,Monterrey   
+NGA,21,DF,Tyronne,Ebuehi,16,12,1995,22,7,0,POR,Benfica   
+AUS,23,MF,Tom,Rogic,16,12,1992,25,39,7,SCO,Celtic   
+SWE,2,DF,Mikael,Lustig,13,12,1986,31,68,6,SCO,Celtic   
+KOR,2,DF,Lee,Yong,24,12,1986,31,30,0,KOR, Jeonbuk Hyundai Motors
+AUS,6,DF,Matthew,Jurman,8,12,1989,28,4,0,KOR, Suwon Samsung Bluewings
+SUI,22,DF,Fabian,Schär,20,12,1991,26,41,7,ESP,Deportivo La Coruña 
+CRC,1,GK,Keylor,Navas,15,12,1986,31,82,0,ESP,Real Madrid  
+ESP,12,DF,Álvaro,Odriozola,14,12,1995,22,4,1,ESP,Real Sociedad  
+FRA,15,MF,Steven,Nzonzi,15,12,1988,29,5,0,ESP,Sevilla   
+RUS,6,MF,Denis,Cheryshev,26,12,1990,27,14,3,ESP,Villarreal   
+TUN,15,MF,Ahmed,Khalil,21,12,1994,23,3,0,TUN,Club Africain  
+NGA,17,MF,Ogenyi,Onazi,25,12,1992,25,50,1,TUR,Trabzonspor   
+AUS,4,FW,Tim,Cahill,6,12,1979,38,106,50,UNA,
+ARG,15,MF,Enzo,Pérez,22,2,1986,32,24,1,ARG,River Plate  
+BRA,8,MF,Renato,Augusto,8,2,1988,30,29,5,CHI,Beijing Sinobo Guoan 
+KOR,19,DF,Kim,Young-gwon,27,2,1990,28,55,2,CHI,Guangzhou Evergrande  
+DEN,7,MF,William,Kvist,24,2,1985,33,81,2,DEN,Copenhagen   
+EGY,9,FW,Marwan,Mohsen,26,2,1989,29,25,4,EGY,Al Ahly  
+ESP,16,DF,Nacho,Monreal,26,2,1986,32,22,1,ENG,Arsenal   
+ISL,18,DF,Hörður,Björgvin Magnússon,11,2,1993,25,18,2,ENG,Bristol City  
+DEN,16,GK,Jonas,Lössl,1,2,1989,29,1,0,ENG,Huddersfield Town  
+SWE,18,DF,Pontus,Jansson,13,2,1991,27,16,0,ENG,Leeds United  
+ARG,17,DF,Nicolás,Otamendi,12,2,1988,30,56,4,ENG,Manchester City  
+ENG,16,DF,Phil,Jones,21,2,1992,26,25,0,ENG,Manchester United  
+CRC,8,DF,Bryan,Oviedo,18,2,1990,28,45,1,ENG,Sunderland   
+TUN,10,MF,Wahbi,Khazri,8,2,1991,27,38,13,ENG,Sunderland AFC  
+DEN,10,MF,Christian,Eriksen,14,2,1992,26,80,23,ENG,Tottenham Hotspur  
+POR,1,GK,Rui,Patrício,15,2,1988,30,72,0,ENG,Wolverhampton Wanderers  
+ISL,13,GK,Rúnar,Alex Rúnarsson,18,2,1995,23,3,0,FRA,Dijon   
+COL,9,FW,Radamel,Falcao,10,2,1986,32,75,30,FRA,Monaco   
+POL,15,DF,Kamil,Glik,3,2,1988,30,59,4,FRA,Monaco   
+ARG,11,MF,Ángel,Di Maria,14,2,1988,30,95,19,FRA,Paris Saint-Germain  
+BRA,10,FW,Neymar,,5,2,1992,26,87,56,FRA,Paris Saint-Germain  
+FRA,23,GK,Alphonse,Areola,27,2,1993,25,0,0,FRA,Paris Saint-Germain  
+URU,21,FW,Edinson,Cavani,14,2,1987,31,104,43,FRA,Paris Saint-Germain  
+SEN,18,FW,Ismaïla,Sarr,25,2,1998,20,17,3,FRA,Rennes   
+GER,18,DF,Joshua,Kimmich,8,2,1995,23,31,3,GER,Bayern Munich  
+GER,19,MF,Sebastian,Rudy,28,2,1990,28,26,1,GER,Bayern Munich  
+ISL,11,FW,Alfreð,Finnbogason,1,2,1989,29,49,14,GER,FC Augsburg  
+KOR,13,MF,Koo,Ja-cheol,27,2,1989,29,69,19,GER,FC Augsburg  
+AUS,7,FW,Mathew,Leckie,4,2,1991,27,55,8,GER,Hertha BSC  
+GER,14,MF,Leon,Goretzka,6,2,1995,23,15,6,GER,Schalke 4  
+SUI,7,FW,Breel,Embolo,14,2,1997,21,27,3,GER,Schalke 4  
+ISL,19,MF,Rúrik,Gíslason,25,2,1988,30,49,3,GER,SV Sandhausen  
+IRN,3,MF,Ehsan,Hajsafi,25,2,1990,28,93,6,GRE,Olympiacos   
+PAN,23,DF,Felipe,Baloy,24,2,1981,37,103,4,GUA,Municipal   
+CRC,3,DF,Giancarlo,González,8,2,1988,30,70,2,ITA,Bologna   
+COL,6,MF,Carlos,Sánchez,6,2,1986,32,86,0,ITA,Fiorentina   
+CRO,19,MF,Milan,Badelj,25,2,1989,29,38,1,ITA,Fiorentina   
+URU,17,MF,Diego,Laxalt,7,2,1993,25,8,0,ITA,Genoa   
+CRO,4,MF,Ivan,Perišić,2,2,1989,29,68,18,ITA,Internazionale   
+SRB,20,MF,Sergej,Milinković-Savić,27,2,1995,23,6,0,ITA,Lazio   
+POL,7,FW,Arkadiusz,Milik,28,2,1994,24,41,12,ITA,Napoli   
+POL,8,MF,Karol,Linetty,2,2,1995,23,20,1,ITA,Sampdoria   
+URU,14,MF,Lucas,Torreira,11,2,1996,22,6,0,ITA,Sampdoria   
+DEN,17,DF,Jens,Stryger Larsen,21,2,1991,27,15,1,ITA,Udinese   
+JPN,23,GK,Kōsuke,Nakamura,27,2,1995,23,4,0,JPN,Kashiwa Reysol  
+JPN,6,DF,Wataru,Endō,9,2,1993,25,12,0,JPN,Urawa Red Diamonds 
+MEX,4,DF,Rafael,Márquez,13,2,1979,39,146,19,MEX,Atlas   
+ARG,1,GK,Nahuel,Guzmán,10,2,1986,32,6,0,MEX,UANL   
+MEX,20,MF,Javier,Aquino,11,2,1990,28,53,0,MEX,UANL   
+PER,1,GK,Pedro,Gallese,23,2,1990,28,41,0,MEX,Veracruz   
+ISL,3,DF,Samúel,Friðjónsson,22,2,1996,22,4,1,NOR,Vålerenga   
+POL,17,MF,Sławomir,Peszko,19,2,1985,33,43,2,POL,Lechia Gdańsk  
+SUI,9,FW,Haris,Seferović,22,2,1992,26,53,12,POR,Benfica   
+RUS,10,FW,Fyodor,Smolov,5,2,1990,28,35,12,RUS,Krasnodar   
+SRB,5,DF,Uroš,Spajić,13,2,1993,25,5,0,RUS,Krasnodar   
+CRO,5,DF,Vedran,Ćorluka,5,2,1986,32,100,4,RUS,Lokomotiv Moscow  
+POR,4,MF,Manuel,Fernandes,5,2,1986,32,14,3,RUS,Lokomotiv Moscow  
+ISL,9,FW,Björn,Bergmann Sigurðarson,26,2,1991,27,15,1,RUS,Rostov   
+RUS,11,MF,Roman,Zobnin,11,2,1994,24,15,0,RUS,Spartak Moscow  
+SRB,6,DF,Branislav,Ivanović,22,2,1984,34,105,13,RUS,Zenit Saint Petersburg 
+KSA,23,DF,Motaz,Hawsawi,17,2,1992,26,20,0,KSA, Al-Ahli  
+KSA,21,GK,Yasser,Al-Mosailem,27,2,1984,34,33,0,KSA, Al-Ahli  
+SRB,18,MF,Nemanja,Radonjić,15,2,1996,22,4,0,SER,Red Star Belgrade 
+KOR,12,DF,Kim,Min-woo,25,2,1990,28,22,1,KOR, Sangju Sangmu 
+FRA,21,DF,Lucas,Hernández,14,2,1996,22,7,0,ESP,Atlético Madrid  
+URU,3,DF,Diego,Godín,16,2,1986,32,120,8,ESP,Atlético Madrid  
+ESP,3,DF,Gerard,Piqué,2,2,1987,31,101,5,ESP,Barcelona   
+DEN,23,MF,Pione,Sisto,4,2,1995,23,16,1,ESP,Celta   
+BRA,5,MF,Casemiro,,23,2,1992,26,26,0,ESP,Real Madrid  
+POR,7,FW,Cristiano,Ronaldo,5,2,1985,33,153,85,ESP,Real Madrid  
+BEL,18,MF,Adnan,Januzaj,5,2,1995,23,8,0,ESP,Real Sociedad  
+SUI,6,DF,Michael,Lang,8,2,1991,27,25,2,SUI,Basel   
+TUN,20,MF,Ghailene,Chaalali,28,2,1994,24,7,1,TUN,Espérance   
+POR,3,DF,Pepe,(Vice-captain),26,2,1983,35,98,5,TUR,Beşiktaş   
+MAR,17,DF,Nabil,Dirar,25,2,1986,32,36,3,TUR,Fenerbahçe   
+MAR,10,MF,Younès,Belhanda,25,2,1990,28,50,5,TUR,Galatasaray   
+PAN,13,DF,Adolfo,Machado,14,2,1985,33,76,1,USA,Houston Dynamo  
+PAN,2,DF,Michael,Amir Murillo,15,2,1996,22,24,2,USA,New York Red Bulls
+CRC,20,MF,David,Guzmán,18,2,1990,28,47,0,USA,Portland Timbers  
+PAN,20,MF,Aníbal,Godoy,10,2,1990,28,91,2,USA,San Jose Earthquakes 
+SWE,13,MF,Gustav,Svensson,7,2,1987,31,14,0,USA,Seattle Sounders  
+ARG,22,MF,Cristian,Pavón,21,1,1996,22,7,0,ARG,Boca Juniors  
+ARG,13,MF,Maximiliano,Meza,15,1,1992,26,4,0,ARG,Independiente   
+COL,20,MF,Juan,Fernando Quintero,18,1,1993,25,17,3,ARG,River Plate  
+AUS,17,MF,Daniel,Arzani,4,1,1999,19,4,1,AUS,Melbourne City  
+KOR,11,FW,Hwang,Hee-chan,26,1,1996,22,16,2,AUT,Red Bull Salzburg 
+NGA,3,DF,Elderson,Echiéjilé,20,1,1988,30,59,3,BEL,Cercle Brugge  
+PAN,19,MF,Ricardo,Ávila,4,1,1997,21,6,0,BEL,Gent II  
+PER,9,FW,Paolo,Guerrero,1,1,1984,34,91,35,BRA,Flamengo   
+COL,19,FW,Miguel,Borja,26,1,1993,25,7,2,BRA,Palmeiras   
+CRC,19,DF,Kendall,Waston,1,1,1988,30,26,2,CAN,Vancouver Whitecaps  
+SRB,3,DF,Duško,Tošić,19,1,1985,33,26,1,CHI,Guangzhou R&F  
+BEL,6,MF,Axel,Witsel,12,1,1989,29,92,9,CHI,Tianjin Quanjian  
+COL,8,MF,Abel,Aguilar,6,1,1985,33,71,7,COL,Deportivo Cali  
+CRC,9,FW,Daniel,Colindres,10,1,1985,33,14,0,CRC,Saprissa  
+CRO,1,GK,Dominik,Livaković,9,1,1995,23,1,0,CRO,Dinamo Zagreb  
+CRO,14,MF,Filip,Bradarić,11,1,1992,26,4,0,CRO,Rijeka   
+SWE,1,GK,Robin,Olsen,8,1,1990,28,20,0,DEN,Copenhagen   
+ISL,12,GK,Frederik,Schram,19,1,1995,23,4,0,DEN,Roskilde   
+TUN,12,DF,Ali,Maâloul,1,1,1990,28,49,0,EGY,Al Ahly  
+SUI,2,DF,Stephan,Lichtsteiner,16,1,1984,34,102,8,ENG,Arsenal   
+BEL,10,FW,Eden,Hazard,7,1,1991,27,88,24,ENG,Chelsea   
+ENG,21,MF,Ruben,Loftus-Cheek,23,1,1996,22,6,0,ENG,Chelsea   
+EGY,14,MF,Ramadan,Sobhi,23,1,1997,21,28,1,ENG,Huddersfield Town  
+ENG,11,FW,Jamie,Vardy,11,1,1987,31,23,7,ENG,Leicester City  
+ESP,21,MF,David,Silva,8,1,1986,32,124,35,ENG,Manchester City  
+ENG,4,MF,Eric,Dier,15,1,1994,24,27,3,ENG,Tottenham Hotspur  
+EGY,2,DF,Ali,Gabr,10,1,1989,29,25,1,ENG,West Bromwich Albion 
+EGY,6,DF,Ahmed,Hegazi,25,1,1991,27,48,1,ENG,West Bromwich Albion 
+POR,10,MF,João,Mário,19,1,1993,25,39,2,ENG,West Ham United 
+TUN,5,DF,Oussama,Haddadi,28,1,1992,26,9,0,FRA,Dijon   
+SWE,12,GK,Karl-Johan,Johnsson,28,1,1990,28,5,0,FRA,Guingamp   
+FRA,20,FW,Florian,Thauvin,26,1,1993,25,4,0,FRA,Marseille   
+NGA,20,DF,Chidozie,Awaziem,1,1,1997,21,3,0,FRA,Nantes   
+POL,10,MF,Grzegorz,Krychowiak,29,1,1990,28,53,3,FRA,Paris Saint Germain 
+GER,4,DF,Matthias,Ginter,19,1,1994,24,18,0,GER,Borussia Mönchengladbach  
+JPN,17,MF,Makoto,Hasebe,18,1,1984,34,112,2,GER,Eintracht Frankfurt  
+GER,2,DF,Marvin,Plattenhardt,26,1,1992,26,7,0,GER,Hertha BSC  
+MAR,20,FW,Aziz,Bouhaddouz,29,1,1987,31,17,3,GER,St. Pauli  
+KOR,10,MF,Lee,Seung-woo,6,1,1998,20,6,0,ITA,Hellas Verona  
+ARG,5,MF,Lucas,Biglia,30,1,1986,32,58,1,ITA,Milan   
+JPN,18,MF,Ryota,Oshima,23,1,1993,25,5,0,JPN,Kawasaki Frontale  
+MEX,19,FW,Oribe,Peralta,12,1,1984,34,67,26,MEX,América   
+MEX,1,GK,José,de Jesus Corono,28,1,1981,37,52,0,MEX,Cruz Azul  
+PER,4,DF,Anderson,Santamaría,10,1,1992,26,7,0,MEX,Puebla   
+DEN,9,FW,Nicolai,Jørgensen,15,1,1991,27,33,8,NED,Feyenoord   
+MAR,8,MF,Karim,El Ahmadi,27,1,1985,33,53,1,NED,Feyenoord   
+COL,4,DF,Santiago,Arias,13,1,1992,26,43,0,NED,PSV   
+POL,21,MF,Rafał,Kurzawa,29,1,1993,25,3,0,POL,Górnik Zabrze  
+MEX,17,FW,Jesús,Manuel Corona,6,1,1993,25,37,7,POR,Porto   
+SWE,17,MF,Viktor,Claesson,2,1,1992,26,24,3,RUS,Krasnodar   
+IRN,20,FW,Sardar,Azmoun,1,1,1995,23,36,23,RUS,Rubin Kazan  
+RUS,7,MF,Daler,Kuzyayev,15,1,1993,25,9,0,RUS,Zenit Saint Petersburg 
+EGY,1,GK,Essam,El-Hadary,15,1,1973,45,155,0,KSA, Al Taawoun 
+KSA,16,MF,Housain,Al-Mogahwi,28,1,1988,30,20,1,KSA, Al-Ahli  
+TUN,14,MF,Mohamed,Amine Ben Amor,1,1,1992,26,27,3,KSA, Al-Ahli  
+KSA,1,GK,Abdullah,Al-Mayouf,23,1,1987,31,11,0,KSA, Al-Hilal  
+KSA,10,FW,Mohammad,Al-Sahlawi,10,1,1987,31,44,28,KSA, Al-Nassr  
+KOR,6,DF,Park,Joo-ho,16,1,1987,31,37,0,KOR, Ulsan Hyundai 
+CRO,2,DF,Šime,Vrsaljko,10,1,1992,26,37,0,ESP,Atlético Madrid  
+ESP,8,MF,Koke,,8,1,1992,26,42,0,ESP,Atlético Madrid  
+URU,2,DF,José,Giménez,20,1,1995,23,44,6,ESP,Atlético Madrid  
+URU,9,FW,Luis,Suárez,24,1,1987,31,101,53,ESP,Barcelona   
+SRB,23,GK,Marko,Dmitrović,24,1,1992,26,2,0,ESP,Eibar   
+ESP,2,DF,Dani,Carvajal,11,1,1992,26,17,0,ESP,Real Madrid  
+ESP,4,DF,Nacho,,18,1,1990,28,18,1,ESP,Real Madrid  
+ESP,20,MF,Marco,Asensio,21,1,1996,22,14,0,ESP,Real Madrid  
+GER,8,MF,Toni,Kroos,4,1,1990,28,85,13,ESP,Real Madrid  
+MEX,15,DF,Héctor,Moreno,17,1,1988,30,94,3,ESP,Real Sociedad  
+SRB,2,DF,Antonio,Rukavina,26,1,1984,34,48,0,ESP,Villarreal   
+AUS,20,DF,Trent,Sainsbury,5,1,1992,26,37,3,SUI,Grasshopper   
+TUN,6,DF,Rami,Bedoui,19,1,1990,28,10,0,TUN,Étoile du Sahel 
+SUI,20,DF,Johan,Djourou,18,1,1987,31,74,2,TUR,Antalyaspor   
+SEN,7,FW,Moussa,Sow,19,1,1986,32,50,19,TUR,Bursaspor   
+CRO,22,DF,Josip,Pivarić,30,1,1989,29,19,0,UKR,Dynamo Kyiv  
+BRA,21,FW,Taison,,13,1,1988,30,8,1,UKR,Shakhtar Donetsk  
+KOR,16,MF,Ki,Sung-yueng,24,1,1989,29,104,10,UNA,
+EGY,4,DF,Omar,Gaber,30,1,1992,26,23,0,USA,Los Angeles  
+PAN,4,DF,Fidel,Escobar,9,1,1995,23,25,1,USA,New York Red Bulls
+AUS,19,DF,Josh,Risdon,27,7,1992,25,10,0,AUS,Western Sydney Wanderers 
+MAR,23,MF,Mehdi,Carcela-González,1,7,1989,28,22,1,BEL,Standard Liège  
+MEX,13,GK,Guillermo,Ochoa,13,7,1985,32,95,0,BEL,Standard Liège  
+CRC,2,DF,Johnny,Acosta,21,7,1983,34,70,2,COL,Rionegro Águilas  
+EGY,16,GK,Sherif,Ekramy,10,7,1983,34,23,0,EGY,Al Ahly  
+EGY,17,MF,Mohamed,Elneny,11,7,1992,25,66,5,ENG,Arsenal   
+DEN,14,DF,Henrik,Dalsgaard,27,7,1989,28,13,0,ENG,Brentford   
+COL,21,FW,José,Izquierdo,7,7,1992,25,6,1,ENG,Brighton & Hove Albion
+POL,12,GK,Bartosz,Białkowski,6,7,1987,30,1,0,ENG,Ipswich Town  
+CRO,6,DF,Dejan,Lovren,5,7,1989,28,41,2,ENG,Liverpool   
+BRA,14,DF,Danilo,,15,7,1991,26,19,0,ENG,Manchester City  
+FRA,22,DF,Benjamin,Mendy,17,7,1994,23,7,0,ENG,Manchester City  
+ENG,18,DF,Ashley,Young,9,7,1985,32,36,7,ENG,Manchester United  
+SWE,3,DF,Victor,Lindelöf,17,7,1994,23,22,1,ENG,Manchester United  
+IRN,21,MF,Ashkan,Dejagah,5,7,1986,31,45,9,ENG,Nottingham Forest  
+BEL,19,MF,Mousa,Dembélé,16,7,1987,30,77,5,ENG,Tottenham Hotspur  
+ENG,9,FW,Harry,Kane,28,7,1993,24,26,18,ENG,Tottenham Hotspur  
+ENG,3,DF,Danny,Rose,2,7,1990,27,19,0,ENG,Tottenham Hotspur  
+KOR,7,FW,Son,Heung-min,8,7,1992,25,69,22,ENG,Tottenham Hotspur  
+DEN,18,MF,Lukas,Lerager,12,7,1993,24,4,0,FRA,Bordeaux   
+MAR,15,MF,Youssef,Aït Bennasser,7,7,1996,21,14,0,FRA,Caen   
+TUN,23,MF,Naïm,Sliti,27,7,1992,25,21,3,FRA,Dijon   
+FRA,18,FW,Nabil,Fekir,18,7,1993,24,14,2,FRA,Lyon   
+FRA,19,DF,Djibril,Sidibé,29,7,1992,25,17,1,FRA,Monaco   
+GER,12,GK,Kevin,Trapp,8,7,1990,27,3,0,FRA,Paris Saint-Germain  
+SWE,20,FW,Ola,Toivonen,3,7,1986,31,61,14,FRA,Toulouse   
+COL,10,MF,James,Rodríguez,12,7,1991,26,65,21,GER,Bayern Munich  
+SUI,5,DF,Manuel,Akanji,19,7,1995,22,9,0,GER,Borussia Dortmund  
+AUS,14,FW,Jamie,Maclaren,29,7,1993,24,6,0,GER,Darmstadt 98  
+MEX,8,MF,Marco,Fabián,21,7,1989,28,39,9,GER,Eintracht Frankfurt  
+SWE,8,MF,Albin,Ekdal,28,7,1989,28,36,0,GER,Hamburger SV  
+JPN,13,FW,Yoshinori,Mutō,15,7,1992,25,24,2,GER,Mainz 5  
+GER,23,FW,Mario,Gómez,10,7,1985,32,77,31,GER,VfB Stuttgart  
+IRN,4,DF,Rouzbeh,Cheshmi,24,7,1993,24,11,1,IRN,Esteghlal   
+CRO,3,DF,Ivan,Strinić,17,7,1987,30,45,0,ITA,Milan   
+POL,18,DF,Bartosz,Bereszyński,12,7,1992,25,10,0,ITA,Sampdoria   
+KOR,21,GK,Kim,Jin-hyeon,6,7,1987,30,15,0,JPN,Cerezo Osaka  
+PER,11,FW,Raúl,Ruidíaz,25,7,1990,27,32,4,MEX,Morelia   
+PER,13,MF,Renato,Tapia,28,7,1995,22,32,3,NED,Feyenoord   
+MEX,22,FW,Hirving,Lozano,30,7,1995,22,30,8,NED,PSV   
+COL,18,DF,Farid,Díaz,20,7,1983,34,13,0,PAR,Olimpia   
+ARG,18,MF,Eduardo,Salvio,13,7,1990,27,11,0,POR,Benfica   
+SRB,7,MF,Andrija,Živković,11,7,1996,21,10,0,POR,Benfica   
+PER,7,MF,Paolo,Hurtado,27,7,1990,27,33,3,POR,Vitória de Guimarães 
+IRN,17,FW,Mehdi,Taremi,18,7,1992,25,30,11,QAT,Al-Gharafa   
+RUS,4,DF,Sergei,Ignashevich,14,7,1979,38,125,8,RUS,CSKA Moscow  
+RUS,8,MF,Yury,Gazinsky,20,7,1989,28,9,1,RUS,Krasnodar   
+RUS,19,MF,Aleksandr,Samedov,19,7,1984,33,51,7,RUS,Spartak Moscow  
+RUS,3,DF,Ilya,Kutepov,29,7,1993,24,10,0,RUS,Spartak Moscow  
+EGY,13,DF,Mohamed,Abdel Shafy,1,7,1985,32,55,1,KSA, Al Fateh 
+EGY,19,MF,Abdallah,Said,13,7,1985,32,41,6,KSA, Al-Ahli  
+KSA,17,MF,Taisir,Al-Jassim,25,7,1984,33,130,19,KSA, Al-Ahli  
+KSA,9,MF,Hattan,Bahebri,16,7,1992,25,9,0,KSA, Al-Shabab  
+TUN,1,GK,Farouk,Ben Mustapha,1,7,1989,28,17,0,KSA, Al-Shabab  
+SRB,1,GK,Vladimir,Stojković,28,7,1983,34,83,0,SER,Partizan   
+BRA,15,MF,Paulinho,,25,7,1988,29,52,12,ESP,Barcelona   
+ESP,5,MF,Sergio,Busquets,16,7,1988,29,106,2,ESP,Barcelona   
+ESP,11,MF,Lucas,Vázquez,1,7,1991,26,9,0,ESP,Real Madrid  
+AUS,9,FW,Tomi,Juric,22,7,1991,26,37,8,SUI,Luzern   
+TUN,4,DF,Yassine,Meriah,2,7,1993,24,19,1,TUN,CS Sfaxien  
+CRC,15,DF,Francisco,Calvo,8,7,1992,25,39,4,USA,Minnesota United  
+POL,14,FW,Łukasz,Teodorczyk,3,6,1991,27,18,4,BEL,Anderlecht   
+TUN,11,DF,Dylan,Bronn,19,6,1995,23,7,1,BEL,Gent   
+PAN,21,MF,José,Luis Rodríguez,19,6,1998,19,4,0,BEL,Gent II  
+SWE,22,FW,Isaac,Kiese Thelin,24,6,1992,26,22,2,BEL,Waasland-Beveren   
+BRA,22,DF,Fagner,,11,6,1989,29,5,0,BRA,Corinthians   
+BRA,16,GK,Cássio,,6,6,1987,31,1,0,BRA,Corinthians   
+URU,10,MF,Giorgian,De Arrascaeta,1,6,1994,24,16,2,BRA,Cruzeiro   
+NGA,9,FW,Odion,Ighalo,16,6,1989,29,21,4,CHI,Changchun Yatai  
+ARG,14,MF,Javier,Mascherano,8,6,1984,34,145,3,CHI,Hebei China Fortune 
+COL,22,GK,José,Fernando Cuadrado,1,6,1985,33,1,0,COL,Once Caldas  
+CRC,22,DF,Kenner,Gutiérrez,9,6,1989,29,9,0,CRC, Alajuelense  
+DEN,15,MF,Viktor,Fischer,9,6,1994,24,19,3,DEN,Copenhagen   
+EGY,15,DF,El,Wensh,1,6,1995,23,1,0,EGY,Zamalek   
+NGA,6,DF,Leon,Balogun,28,6,1989,28,21,0,ENG,Brighton & Hove Albion
+POL,11,MF,Kamil,Grosicki,8,6,1988,30,59,12,ENG,Hull City  
+SWE,7,MF,Sebastian,Larsson,6,6,1985,33,102,6,ENG,Hull City  
+EGY,10,FW,Mohamed,Salah,15,6,1992,26,60,37,ENG,Liverpool   
+ENG,8,MF,Jordan,Henderson,17,6,1990,28,41,0,ENG,Liverpool   
+ARG,19,FW,Sergio,Agüero,2,6,1988,30,87,38,ENG,Manchester City  
+BEL,7,MF,Kevin,De Bruyne,28,6,1991,26,64,14,ENG,Manchester City  
+DEN,11,FW,Martin,Braithwaite,5,6,1991,27,22,1,ENG,Middlesbrough   
+COL,23,DF,Davinson,Sánchez,12,6,1996,22,11,0,ENG,Tottenham Hotspur  
+MEX,14,FW,Javier,Hernández,1,6,1988,30,104,50,ENG,West Ham United 
+TUN,18,MF,Bassem,Srarfi,25,6,1997,21,5,0,FRA,Nice   
+SUI,3,DF,François,Moubandje,21,6,1990,28,18,0,FRA,Toulouse   
+CRO,9,FW,Andrej,Kramarić,19,6,1991,27,33,9,GER,1899 Hoffenheim  
+POL,20,DF,Łukasz,Piszczek,3,6,1985,33,65,3,GER,Borussia Dortmund  
+DEN,20,FW,Yussuf,Poulsen,15,6,1994,24,30,5,GER,RB Leipzig  
+SUI,12,GK,Yvon,Mvogo,6,6,1994,24,0,0,GER,RB Leipzig  
+MAR,18,MF,Amine,Harit,18,6,1997,21,7,0,GER,Schalke 4  
+BEL,13,GK,Koen,Casteels,25,6,1992,26,0,0,GER,VfL Wolfsburg  
+IRN,7,MF,Masoud,Shojaei,9,6,1984,34,75,8,GRE,AEK Athens  
+IRN,19,DF,Majid,Hosseini,20,6,1996,22,4,0,IRN,Esteghlal   
+SWE,15,MF,Oscar,Hiljemark,28,6,1992,25,23,2,ITA,Genoa   
+URU,6,MF,Rodrigo,Bentancur,25,6,1997,21,10,0,ITA,Juventus   
+SEN,3,DF,Kalidou,Koulibaly,20,6,1991,27,28,1,ITA,Napoli   
+ISL,20,MF,Emil,Hallfreðsson,29,6,1984,33,65,1,ITA,Udinese   
+JPN,4,MF,Keisuke,Honda,13,6,1986,32,97,37,MEX,Pachuca   
+MEX,5,MF,Érick,Gutiérrez,17,6,1995,23,9,0,MEX,Pachuca   
+MAR,9,FW,Ayoub,El Kaabi,26,6,1993,25,12,11,MAR,RS Berkane  
+ISL,4,FW,Albert,Guðmundsson,15,6,1997,21,5,3,NED,PSV   
+PER,18,FW,André,Carrillo,14,6,1991,27,48,5,POR,Benfica   
+URU,16,DF,Maxi,Pereira,8,6,1984,34,125,3,POR,Porto   
+RUS,9,MF,Alan,Dzagoev,17,6,1990,28,58,9,RUS,CSKA Moscow  
+ISL,6,DF,Ragnar,Sigurðsson,19,6,1986,32,79,3,RUS,Rostov   
+TUN,8,FW,Fakhreddine,Ben Youssef,21,6,1991,27,41,5,KSA, Al-Ettifaq  
+KSA,8,MF,Yahya,Al-Shehri,26,6,1990,28,56,8,KSA, Al-Nassr  
+KOR,18,MF,Moon,Seon-min,9,6,1992,26,4,1,KOR, Incheon United 
+ARG,10,FW,Lionel,Messi,24,6,1987,31,126,64,ESP,Barcelona   
+BRA,11,MF,Philippe,Coutinho,12,6,1992,26,38,12,ESP,Barcelona   
+CRC,12,FW,Joel,Campbell,26,6,1992,26,78,15,ESP,Betis   
+JPN,14,MF,Takashi,Inui,2,6,1988,30,29,5,ESP,Betis   
+DEN,2,MF,Michael,Krohn-Dehli,6,6,1983,35,58,6,ESP,Deportivo La Coruña 
+CRC,6,DF,Óscar,Duarte,3,6,1989,29,40,2,ESP,Espanyol   
+MAR,19,FW,Youssef,En-Nesyri,1,6,1997,21,17,3,ESP,Málaga   
+ARG,7,MF,Éver,Banega,29,6,1988,29,63,6,ESP,Sevilla   
+MEX,7,DF,Miguel,Layún,25,6,1988,30,66,6,ESP,Sevilla   
+URU,1,GK,Fernando,Muslera,16,6,1986,32,100,0,TUR,Galatasaray   
+POR,22,GK,Beto,,1,6,1982,36,14,0,TUR,Göztepe   
+CRC,13,MF,Rodney,Wallace,17,6,1988,30,28,3,USA,New York City 
+SWE,23,GK,Kristoffer,Nordfeldt,23,6,1989,29,8,0,WAL,Swansea City  
+URU,13,DF,Gastón,Silva,5,3,1994,24,17,0,ARG,Independiente   
+AUS,18,GK,Danny,Vukovic,27,3,1985,33,1,0,BEL,Genk   
+IRN,23,DF,Ramin,Rezaeian,21,3,1990,28,31,2,BEL,Oostende   
+URU,23,GK,Martín,Silva,25,3,1983,35,11,0,BRA,Vasco da Gama 
+COL,12,GK,Camilo,Vargas,9,3,1989,29,5,0,COL,Deportivo Cali  
+PER,2,DF,Alberto,Rodríguez,31,3,1984,34,75,0,COL,Junior   
+SEN,11,MF,Cheikh,N'Doye,29,3,1986,32,29,3,ENG,Birmingham City  
+FRA,13,MF,N'Golo,Kanté,29,3,1991,27,26,1,ENG,Chelsea   
+GER,16,DF,Antonio,Rüdiger,3,3,1993,25,25,1,ENG,Chelsea   
+ENG,1,GK,Jordan,Pickford,7,3,1994,24,5,0,ENG,Everton   
+AUS,22,MF,Jackson,Irvine,7,3,1993,25,21,2,ENG,Hull City  
+ENG,6,DF,Harry,Maguire,5,3,1993,25,7,0,ENG,Leicester City  
+POR,23,MF,Adrien,Silva,15,3,1989,29,25,1,ENG,Leicester City  
+TUN,3,DF,Yohan,Benalouane,28,3,1987,31,5,0,ENG,Leicester City  
+BEL,12,GK,Simon,Mignolet,6,3,1988,30,21,0,ENG,Liverpool   
+ARG,16,DF,Marcos,Rojo,20,3,1990,28,57,2,ENG,Manchester United  
+BRA,18,MF,Fred,,5,3,1993,25,8,0,ENG,Manchester United  
+FRA,6,MF,Paul,Pogba,15,3,1993,25,56,9,ENG,Manchester United  
+ENG,13,GK,Jack,Butland,10,3,1993,25,8,0,ENG,Stoke City  
+BEL,2,DF,Toby,Alderweireld,2,3,1989,29,79,3,ENG,Tottenham Hotspur  
+MAR,16,MF,Nordin,Amrabat,31,3,1987,31,47,4,ENG,Watford   
+MAR,6,DF,Romain,Saïss,26,3,1990,28,28,1,ENG,Wolverhampton Wanderers  
+SEN,13,MF,Alfred,N'Diaye,6,3,1990,28,23,1,ENG,Wolverhampton Wanderers  
+SEN,12,DF,Youssouf,Sabaly,5,3,1993,25,8,0,FRA,Bordeaux   
+TUN,22,GK,Mouez,Hassen,5,3,1995,23,4,0,FRA,Châteauroux   
+FRA,16,GK,Steve,Mandanda,28,3,1985,33,27,0,FRA,Marseille   
+JPN,1,GK,Eiji,Kawashima,20,3,1983,35,86,0,FRA,Metz   
+SEN,20,FW,Keita,Baldé,8,3,1995,23,19,3,FRA,Monaco   
+SEN,1,GK,Abdoulaye,Diallo,30,3,1992,26,17,0,FRA,Rennes   
+SWE,21,MF,Jimmy,Durmaz,22,3,1989,29,46,3,FRA,Toulouse   
+GER,1,GK,Manuel,Neuer,27,3,1986,32,78,0,GER,Bayern Munich  
+JPN,10,MF,Shinji,Kagawa,17,3,1989,29,94,31,GER,Borussia Dortmund  
+BEL,16,FW,Thorgan,Hazard,29,3,1993,25,12,1,GER,Borussia Mönchengladbach  
+JPN,21,DF,Gōtoku,Sakai,14,3,1991,27,41,0,GER,Hamburger SV  
+GER,9,FW,Timo,Werner,6,3,1996,22,16,8,GER,RB Leipzig  
+FRA,2,DF,Benjamin,Pavard,28,3,1996,22,8,0,GER,VfB Stuttgart  
+PAN,7,FW,Blas,Pérez,13,3,1981,37,120,43,GUA,Municipal   
+DEN,21,FW,Andreas,Cornelius,16,3,1993,25,19,4,ITA,Atalanta   
+ARG,6,DF,Federico,Fazio,17,3,1987,31,9,1,ITA,Roma   
+POL,23,FW,Dawid,Kownacki,14,3,1997,21,4,1,ITA,Sampdoria   
+COL,15,MF,Mateus,Uribe,21,3,1991,27,9,0,MEX,América   
+PER,17,DF,Luis,Advíncula,2,3,1990,28,67,0,MEX,BUAP   
+URU,20,FW,Jonathan,Urretaviscaya,19,3,1990,28,4,0,MEX,Monterrey   
+MEX,2,DF,Hugo,Ayala,31,3,1987,31,44,1,MEX,UANL   
+MAR,7,MF,Hakim,Ziyech,19,3,1993,25,21,9,NED,Ajax   
+AUS,12,GK,Brad,Jones,19,3,1982,36,5,0,NED,Feyenoord   
+PAN,18,FW,Luis,Tejada,28,3,1982,36,106,43,PER,Sport Boys  
+PER,21,GK,José,Carvallo,1,3,1986,32,6,0,PER,UTC   
+RUS,5,DF,Andrei,Semyonov,24,3,1989,29,6,0,RUS,Akhmat Grozny  
+EGY,18,MF,Shikabala,,5,3,1986,32,32,2,KSA, Al Raed 
+KSA,3,DF,Osama,Hawsawi,31,3,1984,34,131,7,KSA, Al-Hilal  
+KSA,11,MF,Abdulmalek,Al-Khaibri,13,3,1986,32,34,0,KSA, Al-Hilal  
+TUN,13,MF,Ferjani,Sassi,18,3,1992,26,42,4,KSA, Al-Nassr  
+PAN,15,DF,Erick,Davis,31,3,1991,27,40,0,SLO,Dunajská Streda  
+KOR,22,DF,Go,Yo-han,10,3,1988,30,20,0,KOR, FC Seoul 
+FRA,7,FW,Antoine,Griezmann,21,3,1991,27,56,21,ESP,Atlético Madrid  
+CRO,7,MF,Ivan,Rakitić,10,3,1988,30,94,15,ESP,Barcelona   
+ESP,18,DF,Jordi,Alba,21,3,1989,29,65,8,ESP,Barcelona   
+ESP,15,DF,Sergio,Ramos,30,3,1986,32,155,13,ESP,Real Madrid  
+ARG,2,DF,Gabriel,Mercado,18,3,1987,31,21,3,ESP,Sevilla   
+DEN,4,DF,Simon,Kjær,26,3,1989,29,80,3,ESP,Sevilla   
+ESP,9,FW,Rodrigo,,6,3,1991,27,8,2,ESP,Valencia   
+CRC,4,DF,Ian,Smith,6,3,1998,20,4,0,SWE,Norrköping   
+CRC,17,MF,Yeltsin,Tejeda,17,3,1992,26,50,0,SUI,Lausanne-Sport   
+NGA,12,DF,Shehu,Abdullahi,12,3,1993,25,16,0,TUR,Bursaspor   
+TUN,2,DF,Syam,Ben Youssef,31,3,1989,29,44,1,TUR,Kasımpaşa   
+CRC,21,FW,Marco,Ureña,5,3,1990,28,65,15,USA,Los Angeles  
+MEX,11,FW,Carlos,Vela,1,3,1989,29,70,19,USA,Los Angeles  
+PAN,3,DF,Harold,Cummings,1,3,1992,26,52,0,USA,San Jose Earthquakes 
+PAN,5,DF,Román,Torres,20,3,1986,32,113,10,USA,Seattle Sounders  
+URU,4,DF,Guillermo,Varela,24,3,1993,25,5,0,URU,Peñarol   
+URU,12,GK,Martín,Campaña,29,5,1989,29,1,0,ARG,Independiente   
+ISL,23,DF,Ari,Freyr Skúlason,14,5,1987,31,58,0,BEL,Lokeren   
+PAN,6,MF,Gabriel,Gómez,29,5,1984,34,146,12,COL,Atlético Bucaramanga  
+CRC,18,GK,Patrick,Pemberton,24,5,1982,36,38,0,CRC, Alajuelense  
+CRC,7,MF,Christian,Bolaños,17,5,1984,34,84,7,CRC, Saprissa  
+PER,20,MF,Edison,Flores,15,5,1994,24,31,9,DEN,AaB   
+NGA,18,FW,Alex,Iwobi,3,5,1996,22,20,5,ENG,Arsenal   
+ISL,8,MF,Birkir,Bjarnason,27,5,1988,30,69,9,ENG,Aston Villa  
+BEL,1,GK,Thibaut,Courtois,11,5,1992,26,60,0,ENG,Chelsea   
+BRA,17,MF,Fernandinho,,4,5,1985,33,46,2,ENG,Manchester City  
+ENG,2,DF,Kyle,Walker,28,5,1990,28,37,0,ENG,Manchester City  
+ENG,5,DF,John,Stones,28,5,1994,24,28,2,ENG,Manchester City  
+BEL,9,FW,Romelu,Lukaku,13,5,1993,25,71,40,ENG,Manchester United  
+ISL,22,FW,Jón,Daði Böðvarsson,25,5,1992,26,39,2,ENG,Reading   
+MEX,9,FW,Raúl,Jiménez,5,5,1991,27,64,13,ENG,Wolverhampton Wanderers  
+BEL,17,MF,Youri,Tielemans,7,5,1997,21,10,0,FRA,Monaco   
+TUN,17,MF,Ellyes,Skhiri,10,5,1995,23,7,0,FRA,Montpellier   
+BRA,13,DF,Marquinhos,,14,5,1994,24,26,0,FRA,Paris Saint-Germain  
+GER,3,DF,Jonas,Hector,27,5,1990,28,39,3,GER,1 FC Köln 
+GER,20,MF,Julian,Brandt,2,5,1996,22,18,1,GER,Bayer Leverkusen  
+GER,11,FW,Marco,Reus,31,5,1989,29,33,10,GER,Borussia Dortmund  
+JPN,11,MF,Takashi,Usami,6,5,1992,26,25,3,GER,Fortuna Düsseldorf  
+JPN,8,MF,Genki,Haraguchi,9,5,1991,27,35,6,GER,Hannover 96  
+JPN,15,FW,Yūya,Ōsako,18,5,1990,28,31,8,GER,Werder Bremen  
+IRN,13,DF,Mohammad,Reza Khanzadeh,11,5,1991,27,11,1,IRN,Padideh   
+IRN,12,GK,Mohammad,Mazaheri,18,5,1989,29,3,0,IRN,Zob Ahan  
+NGA,13,FW,Simeon,Nwankwo,7,5,1992,26,3,0,ITA,Crotone   
+SWE,19,MF,Marcus,Rohdén,11,5,1991,27,12,1,ITA,Crotone   
+COL,11,MF,Juan,Cuadrado,26,5,1988,30,72,8,ITA,Juventus   
+CRO,20,FW,Marko,Pjaca,6,5,1995,23,17,1,ITA,Juventus   
+CRO,17,FW,Mario,Mandžukić,21,5,1986,32,85,30,ITA,Juventus   
+BEL,14,FW,Dries,Mertens,6,5,1987,31,71,15,ITA,Napoli   
+POL,19,MF,Piotr,Zieliński,20,5,1994,24,35,5,ITA,Napoli   
+POR,19,DF,Mário,Rui,27,5,1991,27,4,0,ITA,Napoli   
+NGA,15,MF,Joel,Obi,22,5,1991,27,17,0,ITA,Torino   
+JPN,12,GK,Masaaki,Higashiguchi,12,5,1986,32,5,0,JPN,Gamba Osaka  
+JPN,20,DF,Tomoaki,Makino,11,5,1987,31,32,4,JPN,Urawa Red Diamonds 
+DEN,19,MF,Lasse,Schöne,27,5,1986,32,38,3,NED,Ajax   
+PAN,14,MF,Valentín,Pimentel,30,5,1991,27,23,1,PAN,Plaza Amador  
+PER,3,DF,Aldo,Corzo,20,5,1989,29,24,0,PER,Universitario de Deportes 
+POR,13,DF,Rúben,Dias,14,5,1997,21,1,0,POR,Benfica   
+NGA,2,DF,Brian,Idowu,18,5,1992,26,7,1,RUS,Amkar Perm  
+RUS,17,MF,Aleksandr,Golovin,30,5,1996,22,21,3,RUS,CSKA Moscow  
+RUS,14,DF,Vladimir,Granat,22,5,1987,31,12,1,RUS,Rubin Kazan  
+KSA,13,DF,Yasser,Al-Shahrani,25,5,1992,26,41,0,KSA, Al-Hilal  
+KOR,4,DF,Oh,Ban-suk,20,5,1988,30,2,0,KOR, Jeju United 
+ESP,6,MF,Andrés,Iniesta,11,5,1984,34,130,13,ESP,Barcelona   
+FRA,11,FW,Ousmane,Dembélé,15,5,1997,21,14,2,ESP,Barcelona   
+PAN,10,FW,Ismael,Díaz,12,5,1997,21,12,2,ESP,Deportivo Fabril  
+CRC,5,MF,Celso,Borges,27,5,1988,30,113,17,ESP,Deportivo La Coruña 
+JPN,7,MF,Gaku,Shibasaki,28,5,1992,26,20,3,ESP,Getafe   
+MAR,12,GK,Munir,Mohamedi,10,5,1989,29,31,0,ESP,Numancia   
+BRA,12,DF,Marcelo,,12,5,1988,30,56,6,ESP,Real Madrid  
+CRO,8,MF,Mateo,Kovačić,6,5,1994,24,43,1,ESP,Real Madrid  
+MAR,4,DF,Manuel,da Costa,6,5,1986,32,31,1,TUR,İstanbul Başakşehir  
+POR,18,FW,Gelson,Martins,11,5,1995,23,19,0,UNA,
+MEX,10,MF,Giovani,dos Santos,11,5,1989,29,106,19,USA, LA Galaxy 
+SWE,5,DF,Martin,Olsson,17,5,1988,30,43,5,WAL,Swansea City  
+AUS,21,MF,Dimitri,Petratos,10,11,1992,25,2,0,AUS,Newcastle Jets  
+SEN,4,DF,Kara,Mbodji,11,11,1989,28,47,5,BEL,Anderlecht   
+PER,8,MF,Christian,Cueva,23,11,1991,26,47,8,BRA,São Paulo  
+PAN,11,MF,Armando,Cooper,26,11,1987,30,100,7,CHL,Universidad de Chile 
+CRC,11,FW,Johan,Venegas,27,11,1988,29,49,10,CRC,Saprissa  
+SUI,18,FW,Mario,Gavranović,24,11,1989,28,15,4,CRO,Dinamo Zagreb  
+EGY,7,DF,Ahmed,Fathy,10,11,1984,33,131,3,EGY,Al Ahly  
+ENG,14,FW,Danny,Welbeck,26,11,1990,27,39,16,ENG,Arsenal   
+DEN,1,GK,Kasper,Schmeichel,5,11,1986,31,37,0,ENG,Leicester City  
+ENG,17,DF,Fabian,Delph,21,11,1989,28,12,0,ENG,Manchester City  
+BEL,8,MF,Marouane,Fellaini,22,11,1987,30,83,17,ENG,Manchester United  
+ESP,1,GK,David,de Gea,7,11,1990,27,32,0,ENG,Manchester United  
+SRB,10,MF,Dušan,Tadić,20,11,1988,29,55,13,ENG,Southampton   
+NGA,8,MF,Oghenekaro,Etebo,9,11,1995,22,14,1,ENG,Stoke City  
+CRO,13,DF,Tin,Jedvaj,28,11,1995,22,12,0,GER,Bayer Leverkusen  
+SUI,21,GK,Roman,Bürki,14,11,1990,27,9,0,GER,Borussia Dortmund  
+SUI,17,MF,Denis,Zakaria,20,11,1996,21,11,0,GER,Borussia Mönchengladbach  
+SRB,17,MF,Filip,Kostić,1,11,1992,25,25,2,GER,Hamburger SV  
+SEN,16,GK,Khadim,N'Diaye,30,11,1984,33,28,0,GUI,Horoya   
+ISL,2,DF,Birkir,Már Sævarsson,11,11,1984,33,81,1,ISL,Valur   
+CRO,11,MF,Marcelo,Brozović,16,11,1992,25,37,6,ITA,Internazionale   
+ARG,21,FW,Paulo,Dybala,15,11,1993,24,13,0,ITA,Juventus   
+POR,9,FW,André,Silva,6,11,1995,22,25,12,ITA,Milan   
+SRB,11,DF,Aleksandar,Kolarov,10,11,1985,32,78,11,ITA,Roma   
+PER,15,DF,Christian,Ramos,4,11,1988,29,72,3,MEX,Veracruz   
+POL,3,DF,Artur,Jędrzejczyk,4,11,1987,30,36,3,POL,Legia Warsaw  
+RUS,12,GK,Andrey,Lunyov,13,11,1991,26,3,0,RUS,Zenit Saint Petersburg 
+KSA,4,DF,Ali,Al-Bulaihi,21,11,1989,28,5,0,KSA, Al-Hilal  
+BEL,20,DF,Dedryck,Boyata,28,11,1990,27,9,0,SCO,Celtic   
+POR,2,DF,Bruno,Alves,27,11,1981,36,96,11,SCO,Rangers   
+ESP,7,MF,Saúl,,21,11,1994,23,10,0,ESP,Atlético Madrid  
+FRA,8,MF,Thomas,Lemar,12,11,1995,22,12,3,ESP,Atlético Madrid  
+BEL,3,DF,Thomas,Vermaelen,14,11,1985,32,66,1,ESP,Barcelona   
+FRA,5,DF,Samuel,Umtiti,14,11,1993,24,21,2,ESP,Barcelona   
+MAR,2,DF,Achraf,Hakimi,4,11,1998,19,13,1,ESP,Real Madrid  
+POR,17,FW,Gonçalo,Guedes,29,11,1996,21,13,3,ESP,Valencia   
+COL,5,MF,Wílmar,Barrios,16,10,1993,24,12,0,ARG,Boca Juniors  
+ARG,12,GK,Franco,Armani,16,10,1986,31,0,0,ARG,River Plate  
+RUS,20,GK,Vladimir,Gabulov,19,10,1983,34,10,0,BEL,Club Brugge  
+SEN,22,DF,Moussa,Wagué,4,10,1998,19,12,1,BEL,Eupen   
+PAN,9,FW,Gabriel,Torres,31,10,1988,29,73,14,CHL,Huachipato   
+EGY,8,MF,Tarek,Hamed,24,10,1988,29,27,0,EGY,Zamalek   
+TUN,21,DF,Hamdi,Nagguez,28,10,1992,25,17,0,EGY,Zamalek   
+GER,10,MF,Mesut,Özil,15,10,1988,29,91,23,ENG,Arsenal   
+ISL,7,MF,Jóhann,Berg Guðmundsson,27,10,1990,27,68,7,ENG,Burnley   
+BEL,21,FW,Michy,Batshuayi,2,10,1993,24,17,8,ENG,Chelsea   
+NGA,22,DF,Kenneth,Omeruo,17,10,1993,24,39,0,ENG,Chelsea   
+NGA,14,FW,Kelechi,Iheanacho,3,10,1996,21,19,8,ENG,Leicester City  
+NGA,7,FW,Ahmed,Musa,14,10,1992,25,72,15,ENG,Leicester City  
+POR,15,DF,Ricardo,Pereira,6,10,1993,24,4,0,ENG,Leicester City  
+BRA,20,FW,Roberto,Firmino,2,10,1991,26,23,6,ENG,Liverpool   
+ENG,22,DF,Trent,Alexander-Arnold,7,10,1998,19,1,0,ENG,Liverpool   
+GER,21,MF,İlkay,Gündoğan,24,10,1990,27,27,4,ENG,Manchester City  
+ENG,19,FW,Marcus,Rashford,31,10,1997,20,20,3,ENG,Manchester United  
+SEN,17,MF,Badou,Ndiaye,27,10,1990,27,19,1,ENG,Stoke City  
+SUI,23,MF,Xherdan,Shaqiri,10,10,1991,26,72,21,ENG,Stoke City  
+MAR,3,DF,Hamza,Mendyl,21,10,1997,20,13,0,FRA,Lille   
+POR,12,GK,Anthony,Lopes,1,10,1990,27,7,0,FRA,Lyon   
+CRO,23,GK,Danijel,Subašić,27,10,1984,33,40,0,FRA,Monaco   
+SWE,10,MF,Emil,Forsberg,23,10,1991,26,38,6,GER,RB Leipzig  
+AUS,10,FW,Robbie,Kruse,5,10,1988,29,66,5,GER,VfL Bochum  
+ISL,14,DF,Kári,Árnason,13,10,1982,35,69,5,ISL,Víkingur   
+SRB,12,GK,Predrag,Rajković,31,10,1995,22,8,0,ISR,Maccabi Tel Aviv 
+SRB,15,DF,Nikola,Milenković,12,10,1997,20,5,0,ITA,Fiorentina   
+BRA,1,GK,Alisson,,2,10,1992,25,28,0,ITA,Roma   
+JPN,16,MF,Hotaru,Yamaguchi,6,10,1990,27,43,2,JPN,Cerezo Osaka  
+JPN,2,DF,Naomichi,Ueda,24,10,1994,23,4,0,JPN,Kashima Antlers  
+MEX,21,DF,Edson,Álvarez,24,10,1997,20,14,1,MEX,América   
+PAN,8,MF,Édgar,Bárcenas,23,10,1993,24,31,0,MEX,Tapachula   
+DEN,12,FW,Kasper,Dolberg,6,10,1997,20,6,1,NED,Ajax   
+NGA,1,GK,Ikechukwu,Ezenwa,16,10,1988,29,24,0,NGA,Enyimba   
+PER,5,DF,Miguel,Araujo,24,10,1994,23,8,0,PER,Alianza Lima  
+PER,22,DF,Nilson,Loyola,26,10,1994,23,3,0,PER,Melgar   
+ARG,8,DF,Marcos,Acuña,28,10,1991,26,11,0,POR,Sporting CP  
+URU,19,DF,Sebastián,Coates,7,10,1990,27,31,1,POR,Sporting CP  
+IRN,6,MF,Saeid,Ezatolahi,1,10,1996,21,27,1,RUS,Amkar Perm  
+PER,10,FW,Jefferson,Farfán,26,10,1984,33,86,25,RUS,Lokomotiv Moscow  
+RUS,15,FW,Aleksei,Miranchuk,17,10,1995,22,19,4,RUS,Lokomotiv Moscow  
+RUS,16,MF,Anton,Miranchuk,17,10,1995,22,6,0,RUS,Lokomotiv Moscow  
+RUS,21,MF,Aleksandr,Yerokhin,13,10,1989,28,17,0,RUS,Zenit Saint Petersburg 
+KSA,20,FW,Muhannad,Assiri,14,10,1986,31,18,4,KSA, Al-Ahli  
+KSA,22,GK,Mohammed,Al-Owais,10,10,1991,26,9,0,KSA, Al-Ahli  
+KSA,2,DF,Mansoor,Al-Harbi,19,10,1987,30,41,1,KSA, Al-Ahli  
+CRC,16,DF,Cristian,Gamboa,24,10,1989,28,69,3,SCO,Celtic   
+KOR,5,DF,Yun,Young-sun,4,10,1988,29,6,0,KOR, Seongnam FC 
+KOR,8,MF,Ju,Se-jong,30,10,1990,27,12,1,KOR,Asan Mugunghwa 
+ESP,13,GK,Kepa,Arrizabalaga,3,10,1994,23,1,0,ESP,Athletic Bilbao  
+ESP,19,FW,Diego,Costa,7,10,1988,29,23,10,ESP,Atlético Madrid  
+NGA,23,GK,Francis,Uzoho,28,10,1998,19,8,0,ESP,Deportivo La Coruña 
+URU,11,FW,Cristhian,Stuani,12,10,1986,31,41,5,ESP,Girona   
+COL,16,MF,Jefferson,Lerma,25,10,1994,23,7,0,ESP,Levante   
+TUN,19,FW,Saber,Khalifa,14,10,1986,31,45,7,TUN,Club Africain  
+SEN,21,DF,Lamine,Gassama,20,10,1989,28,39,0,TUR,Alanyaspor   
+AUS,16,DF,Aziz,Behich,16,10,1990,27,25,2,TUR,Bursaspor   
+EGY,21,MF,Trézéguet,,1,10,1994,23,29,2,TUR,Kasımpaşa   
+CRO,15,DF,Duje,Ćaleta-Car,17,9,1996,21,1,0,AUT,Red Bull Salzburg 
+BRA,4,DF,Pedro,Geromel,21,9,1985,32,2,0,BRA,Grêmio   
+POL,6,MF,Jacek,Góralski,21,9,1992,25,6,0,BUL,Ludogorets Razgrad  
+BEL,11,MF,Yannick,Carrasco,4,9,1993,24,28,5,CHI,Dalian Yifang  
+SUI,10,MF,Granit,Xhaka,27,9,1992,25,64,10,ENG,Arsenal   
+EGY,3,DF,Ahmed,Elmohamady,9,9,1987,30,83,2,ENG,Aston Villa  
+ARG,23,GK,Willy,Caballero,28,9,1981,36,5,0,ENG,Chelsea   
+FRA,9,FW,Olivier,Giroud,30,9,1986,31,76,31,ENG,Chelsea   
+ISL,10,MF,Gylfi,Sigurðsson,8,9,1989,28,59,19,ENG,Everton   
+SEN,5,MF,Idrissa,Gueye,26,9,1989,28,59,1,ENG,Everton   
+AUS,13,MF,Aaron,Mooy,15,9,1990,27,36,5,ENG,Huddersfield Town  
+DEN,5,DF,Jonas,Knudsen,16,9,1992,25,3,0,ENG,Ipswich Town  
+SRB,9,FW,Aleksandar,Mitrović,16,9,1994,23,39,17,ENG,Newcastle United  
+AUS,8,MF,Massimo,Luongo,25,9,1992,25,35,5,ENG,Queens Park Rangers 
+ENG,12,DF,Kieran,Trippier,19,9,1990,27,9,0,ENG,Tottenham Hotspur  
+EGY,5,MF,Sam,Morsy,10,9,1991,26,6,0,ENG,Wigan Athletic  
+POR,8,MF,João,Moutinho,8,9,1986,31,113,7,FRA,Monaco   
+BEL,15,DF,Thomas,Meunier,12,9,1991,26,27,5,FRA,Paris Saint-Germain  
+BRA,2,DF,Thiago,Silva,22,9,1984,33,73,5,FRA,Paris Saint-Germain  
+GER,7,MF,Julian,Draxler,20,9,1993,24,46,6,FRA,Paris Saint-Germain  
+GER,17,DF,Jérôme,Boateng,3,9,1988,29,73,1,GER,Bayern Munich  
+GER,13,FW,Thomas,Müller,13,9,1989,28,93,38,GER,Bayern Munich  
+GER,15,DF,Niklas,Süle,3,9,1995,22,11,0,GER,Bayern Munich  
+DEN,8,MF,Thomas,Delaney,3,9,1991,26,29,4,GER,Borussia Dortmund  
+SUI,4,DF,Nico,Elvedi,30,9,1996,21,6,0,GER,Borussia Mönchengladbach  
+CRO,18,FW,Ante,Rebić,21,9,1993,24,18,2,GER,Eintracht Frankfurt  
+MEX,3,DF,Carlos,Salcedo,29,9,1993,24,23,0,GER,Eintracht Frankfurt  
+SUI,16,MF,Gelson,Fernandes,2,9,1986,31,67,2,GER,Eintracht Frankfurt  
+SRB,13,DF,Miloš,Veljković,26,9,1995,22,2,0,GER,Werder Bremen  
+EGY,22,MF,Amr,Warda,17,9,1993,24,20,0,GRE,PAOK   
+PAN,17,DF,Luis,Ovalle,7,9,1988,29,25,0,HON,Olimpia   
+IRN,15,DF,Pejman,Montazeri,6,9,1983,34,46,2,IRN,Esteghlal   
+IRN,9,MF,Omid,Ebrahimi,16,9,1987,30,33,0,IRN,Esteghlal   
+IRN,1,GK,Alireza,Beiranvand,21,9,1992,25,25,0,IRN,Persepolis   
+IRN,2,MF,Mehdi,Torabi,10,9,1994,23,17,4,IRN,Saipa   
+BRA,3,DF,Miranda,,7,9,1984,33,49,2,ITA,Internazionale   
+BRA,7,FW,Douglas,Costa,14,9,1990,27,26,3,ITA,Juventus   
+COL,2,DF,Cristián,Zapata,30,9,1986,31,55,2,ITA,Milan   
+SEN,23,GK,Alfred,Gomis,5,9,1993,24,1,0,ITA,SPAL   
+ARG,4,DF,Cristian,Ansaldi,20,9,1986,31,5,1,ITA,Torino   
+SRB,22,MF,Adem,Ljajić,29,9,1991,26,31,6,ITA,Torino   
+KOR,20,DF,Jang,Hyun-soo,28,9,1991,26,53,3,JPN,FC Tokyo  
+KOR,1,GK,Kim,Seung-gyu,30,9,1990,27,33,0,JPN,Vissel Kobe  
+MEX,12,GK,Alfredo,Talavera,18,9,1982,35,27,0,MEX,Toluca   
+PER,16,MF,Wilder,Cartagena,23,9,1994,23,3,0,MEX,Veracruz   
+PER,12,GK,Carlos,Cáceda,27,9,1991,26,6,0,MEX,Veracruz   
+IRN,16,FW,Reza,Ghoochannejhad,20,9,1987,30,44,16,NED,Heerenveen   
+POL,2,DF,Michał,Pazdan,21,9,1987,30,35,0,POL,Legia Warsaw  
+PAN,1,GK,Jaime,Penedo,26,9,1981,36,133,0,ROM,Dinamo București  
+IRN,5,DF,Milad,Mohammadi,29,9,1993,24,21,0,RUS,Akhmat Grozny  
+RUS,2,DF,Mário,Fernandes,19,9,1990,27,8,0,RUS,CSKA Moscow  
+TUN,16,GK,Aymen,Mathlouthi,14,9,1984,33,70,0,KSA, Al-Batin  
+KSA,6,DF,Mohammed,Al-Breik,15,9,1992,25,14,1,KSA, Al-Hilal  
+KSA,12,MF,Mohamed,Kanno,22,9,1994,23,7,1,KSA, Al-Hilal  
+KSA,19,MF,Fahad,Al-Muwallad,14,9,1994,23,49,10,KSA, Al-Ittihad  
+KSA,5,DF,Omar,Hawsawi,27,9,1985,32,47,3,KSA, Al-Nassr  
+KOR,23,GK,Jo,Hyeon-woo,25,9,1991,26,8,0,KOR, Daegu FC 
+KOR,14,DF,Hong,Chul,17,9,1990,27,15,0,KOR, Sangju Sangmu 
+COL,13,DF,Yerry,Mina,23,9,1994,23,13,4,ESP,Barcelona   
+MEX,18,MF,Andrés,Guardado,28,9,1986,31,149,25,ESP,Betis   
+CRO,10,MF,Luka,Modrić,9,9,1985,32,108,14,ESP,Real Madrid  
+COL,7,FW,Carlos,Bacca,8,9,1986,31,47,14,ESP,Villarreal   
+IRN,14,MF,Saman,Ghoddos,6,9,1993,24,11,1,SWE,Östersund   
+POR,20,FW,Ricardo,Quaresma,26,9,1983,34,79,10,TUR,Beşiktaş   
+NGA,5,DF,William,Troost-Ekong,1,9,1993,24,23,1,TUR,Bursaspor   
+JPN,5,DF,Yūto,Nagatomo,12,9,1986,31,107,3,TUR,Galatasaray   
+POR,16,MF,Bruno,Fernandes,8,9,1994,23,8,1,UNA,
+PER,14,MF,Andy,Polo,29,9,1994,23,17,1,USA,Portland Timbers  
+URU,7,MF,Cristian,Rodríguez,30,9,1985,32,107,11,URU,Peñarol   
